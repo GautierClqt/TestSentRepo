@@ -18,3 +18,8 @@ C'est parti...
 [modif en local]
 Une petite modif juste pour push un coup
 [/modif en local]
+
+[Modif GitHub]
+Le dossier help/ et tout ce qu'il contient doit être supprimer!
+Merci de faire le nécessaire...
+[Modif /GitHub]
