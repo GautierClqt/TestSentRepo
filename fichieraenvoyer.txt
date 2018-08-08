@@ -1,0 +1,1 @@
+J'ai ouvert ce fichier avec la commande 'start notepad++ FichierAEnvoyer.txt'
