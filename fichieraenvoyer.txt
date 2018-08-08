@@ -14,3 +14,7 @@ A partir de là je vais utiliser la commande 'git pull'
 Alors que 'git clone' récupère l'intégralité du Repo 'git pull' va uniquement télécharger les modifications.
 C'est parti...
 [/Modif Github]
+
+[modif en local]
+Une petite modif juste pour push un coup
+[/modif en local]
