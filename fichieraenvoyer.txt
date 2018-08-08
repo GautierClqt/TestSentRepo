@@ -1,2 +1,16 @@
+[Modif en local]
 J'ai ouvert ce fichier avec la commande 'start notepad++ FichierAEnvoyer.txt'
 Je rajoute une seconde ligne pour tester un push sur GitHub
+[/Modif en local]
+
+[Modif GitHub]
+Jusque là j'ai créé ce Repo sur GitHub
+Je l'ai cloné avec 'git clone' sur mon pc(en local donc)
+Je l'ai modifié en local et j'ai commit ces modifs 'git commit'
+Puis j'ai renvoyé ces commits sur GitHub avec la commande 'git push'
+
+Maintenant je souhaite récupérer les nouvelles modifications(effectuée sur GitHub) de ce Repo en local
+A partir de là je vais utiliser la commande 'git pull'
+Alors que 'git clone' récupère l'intégralité du Repo 'git pull' va uniquement télécharger les modifications.
+C'est parti...
+[/Modif Github]
