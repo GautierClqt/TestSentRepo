@@ -1,4 +1,0 @@
-Pourquoi j'ouvre et modifie ce fichier alors que je veux le supprimer?
-Réponse: Pour m'amuser avec 'git push' et 'git pull'
-
-Il faut définitivement supprimer ce fichier(à faire en local)

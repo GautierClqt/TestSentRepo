@@ -23,3 +23,8 @@ Une petite modif juste pour push un coup
 Le dossier help/ et tout ce qu'il contient doit être supprimer!
 Merci de faire le nécessaire...
 [Modif /GitHub]
+
+[Modif local]
+Ok le dossier help/ et son contenu sont supprimé
+Utilisation de la commande 'rm -R' avec l'option '-i'('rm -iR') pour supprimer l'intégralité du dossier avec demande de confirmation.
+[/Modif local]
